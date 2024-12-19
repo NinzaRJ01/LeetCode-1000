@@ -5,16 +5,16 @@ This repository is a comprehensive guide to solving algorithmic problems, organi
 
 ## Repository Structure
 
-### Core Data Structures (1-15)
-1. Arrays and Strings
-2. Linked Lists
-3. Stacks and Queues
-4. Trees and Graphs
-5. Hash Tables
-6. Heaps
-7. Dynamic Programming
-8. Sorting and Searching
-9. Recursion and Backtracking
+### Core Data Structures (01-15)
+01. Arrays and Strings
+02. Linked Lists
+03. Stacks and Queues
+04. Trees and Graphs
+05. Hash Tables
+06. Heaps
+07. Dynamic Programming
+08. Sorting and Searching
+09. Recursion and Backtracking
 10. Greedy Algorithms
 11. Binary Search
 12. Two Pointers
@@ -78,7 +78,7 @@ This repository is a comprehensive guide to solving algorithmic problems, organi
 ## How to Use This Repository
 
 ### For Learning
-1. Start with the core data structures (1-15)
+1. Start with the core data structures (01-15)
 2. Move to advanced data structures (16-28)
 3. Study specialized algorithms based on your interests
 4. Review implementation examples and problem solutions
